@@ -11,6 +11,6 @@ elif SETTINGS_ENVIRONMENT == 'STG':
 
 elif SETTINGS_ENVIRONMENT == 'PROD':
     from settings.settings_prod import  *
-    
+
 
 
